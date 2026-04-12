@@ -42,5 +42,4 @@ This project focuses on analyzing **sales performance and customer behavior** us
 ## 🚀 Outcome  
 Developed an interactive and user-friendly dashboard that enables **real-time data exploration**, helping stakeholders make **data-driven decisions** and improve overall business performance.
 
-## 📸 Dashboard Preview  
-_Add your dashboard screenshots here_
+
